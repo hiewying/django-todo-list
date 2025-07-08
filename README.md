@@ -22,7 +22,7 @@ A simple To-Do application built with Django featuring user authentication (logi
 
 ## Screenshots
 
-
+[View screenshots folder](screenshots/)
 
 ---
 
@@ -31,8 +31,8 @@ A simple To-Do application built with Django featuring user authentication (logi
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/hiewying/django-todo-app.git
-cd django-todo-app
+git clone https://github.com/hiewying/django-todo-list.git
+cd django-todo-list
 ```
 
 2. **Create and activate a virtual environment**
